@@ -36,6 +36,8 @@ Examples of projects using pythoncapi_compat.h
   Mercurial extension.
 * `python-zstd <https://github.com/sergey-dryabzhinsky/python-zstd/>`_
   (`commit <https://github.com/sergey-dryabzhinsky/python-zstd/commit/8aa6d7a4b250e1f0a4e27b4107c39dc516c87f96>`__)
+* `PyTorch <https://github.com/pytorch/pytorch/>`_ (`pythoncapi_compat.h copy
+  <https://github.com/pytorch/pytorch/blob/main/torch/csrc/utils/pythoncapi_compat.h>`__)
 
 
 Projects not using pythoncapi_compat.h
